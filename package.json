@@ -1,8 +1,8 @@
 {
+  "homepage": "http://kyawzintun.github.io/markdown",
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://cukyawzintun.github.io/markdown",
   "dependencies": {
     "bootstrap": "3.3.7",
     "gh-pages": "1.0.0",
